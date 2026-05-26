@@ -19,7 +19,7 @@ Projeto desenvolvido para a disciplina de Inteligência Artificial da FCI (Macke
 
 ---
 
-## 🚀 Como executar o projeto localmente
+## Como executar o projeto localmente
 
 ### 1. Pré-requisitos
 - Python 3.9+ instalado.
