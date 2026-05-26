@@ -12,14 +12,14 @@ Projeto desenvolvido para a disciplina de Inteligência Artificial da FCI (Macke
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Streamlit:** Interface web ágil e interativa.
 - **Whisper (OpenAI):** Modelo de Speech-to-Text de alta fidelidade para transcrição automatizada.
 - **Ollama (Llama 3.2 1B):** Modelo de Linguagem de Grande Escala (LLM) local otimizado para eficiência de memória RAM e sumarização estruturada.
 
 ---
 
-## 🚀 Como executar o projeto localmente
+## Como executar o projeto localmente
 
 ### 1. Pré-requisitos
 - Python 3.9+ instalado.
